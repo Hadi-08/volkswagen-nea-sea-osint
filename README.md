@@ -18,7 +18,7 @@ Volkswagen's public regulatory record across four independent jurisdictions reve
 ## Methodology and Sources
 Research was structured across four domains, each drawing on a distinct source base:
 
-- Corporate Structure: Volkswagen AG Annual Reports (2024/2025), OpenCorporates, company investor relations portals, SAIC Motor annual reports, and Gotion High-Tech IR pages
+- Corporate Structure: Volkswagen AG Annual Reports (2024/2025), OpenCorporates, company investor relations portals, SAIC Motor annual reports, and Gotion High-Tech IR pages.
 - Geographic Footprint: Company facility announcements and press releases, Google Earth Pro for coordinate verification, QGIS 3.44.7 for spatial mapping.
 - Regulatory & Litigation History: Volkswagen AG Annual Reports 2022-2025 (litigation sections), US EPA, US DOJ, US CBP, US Senate Finance Committee (May 2024), NDRC/Hubei Price Bureau, Korea Fair Trade Commission (KFTC), European Commission, and the UK CMA.
 - Personnel Intelligence: LinkedIn, Volkswagen Group China press releases, Audi AG press releases, CARIAD press releases and national subsidiary IR pages.
