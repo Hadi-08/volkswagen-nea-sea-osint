@@ -11,7 +11,7 @@ Volkswagen's public regulatory record across four independent jurisdictions reve
 *   Methodology: Strict Open-Source Intelligence (OSINT) (no proprietary databases, non-public records, or paid data services were used)
 
 ## Files
-- `/data' — Corporate Structure, locations, key personnel, and Regulatory History (tabular)
+- `/data` — Corporate Structure, locations, key personnel, and Regulatory History (tabular)
 - `/output` — One page Pyramid Principle memo and final exported map
 - `/qgis` —  QGIS project file
 
