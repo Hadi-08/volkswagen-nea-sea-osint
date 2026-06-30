@@ -1,0 +1,19 @@
+Entity Name,Parent Entity,Ownership %,Country of Registration,Sector,Type
+"Volkswagen (China) Investment Co.,Ltd.",Volkswagen AG,100%,China,Financial Holding,Subsidary
+"SAIC Volkswagen Automotive Co., Ltd.",Volkswagen AG + SAIC Motor,"VW AG 39%, VW (China) Investment, 10%, SAIC 50%, Audi AG 1%",China,Automotive Manufacturing,JV
+"FAW-Volkswagen Automotive Co., Ltd.",Volkswagen AG + Audi AG + FAW Group,"VW AG 25%, Audi AG 5%, FAW 60%, VW (China) Investment 10%",China,Automotive Manufacturing,JV
+"Volkswagen Anhui Co., Ltd.",Volkswagen AG + JAC Group,VW 75%,China,EV Manufacturing,JV
+Audi FAW NEV Company,Audi AG + FAW Group + VW China Invest,"Audi AG 55%, VW China Invest 5%, FAW 40%",China,EV Manufacturing,JV
+Volkswagen Group China,Volkswagen AG,VW AG 100%,China,Regional Holding,Subsidary
+"CARIAD Tech (China) Co., Ltd.",CARIAD SE (100% VW Group),CARIAD SE 100%,China,Automotive Software,Subsidary
+"Gotion High-Tech Co., Ltd.",Volkswagen AG (partial stake),VW AG 25.56%,China,Battery Technology,Associate
+Traton Group SE,Volkswagen AG,Volswagen AG 87.5%,Germany,Commercial Vehicles,Subsidary
+Sinotruk (Hong Kong) Ltd.,Volkswagen AG (partial stake),Traton SE 25% + 1,Hong Kong,Commercial Vehicles,Associate
+Volkswagen Group Japan KK,Volkswagen AG,VW AG 100% (Directly or Indirectly),Japan,Sales & Distribution,Subsidary
+"Volkswagen Group Korea Co., Ltd.",Volkswagen AG,VW AG 100% (Directly or Indirectly),South Korea,Sales & Distribution,Subsidary
+Volkswagen Group Singapore Pte Ltd,Volkswagen AG,VW AG 100% (Directly or Indirectly),Singapore,Regional Holding,Subsidary
+Volkswagen Group Malaysia Sdn. Bhd.,Volkswagen AG,VW AG 100% (Directly or Indirectly),Malaysia,Sales & Distribution,Subsidary
+Volkswagen Group Taiwan,Volkswagen AG,VW AG 100% (Directly or Indirectly),Taiwan,Sales & Distribution,Subsidary
+Volkswagen Passenger Cars Malaysia Sdn. Bhd.,Volkswagen Group Malaysia Sdn. Bhd.,VW AG 100% (Directly or Indirectly),Malaysia,Automotive Retail,Subsidary
+Volkswagen Capital Advisory Sdn. Bhd.,Volkswagen Financial Services AG,VW AG 100% (Directly or Indirectly),Malaysia,Financial Services,Subsidary
+PowerCo SE,Volkswagen AG,VW AG 100%,Germany,Battery Manufacturing,Subsidary
